@@ -37,8 +37,10 @@ https://twitter.com/JavaKueche
 メーリングリストへの登録方法は、
 
 subscribe あなたの名前
+
 例:
-subscribe Taro Yamada
+
+    subscribe Taro Yamada
 
 というコマンドをメール本文に書いて
 アドレス <kuche-users-ctl@java-kuche.org> へ送って下さい。
