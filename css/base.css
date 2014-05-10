@@ -7,6 +7,18 @@ body {
 a {
   color: #227ce8; }
 
+table {
+  border-collapse: collapse;
+  border: 1px solid #ccc; }
+  th {
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    font-family: Helvetica, sans-serif;
+    background-color: #eee; }
+  td {
+    padding: 6px 10px;
+    border: 1px solid #ccc; }
+
 .sidebar {
   position: fixed;
   left: 15px;
