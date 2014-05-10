@@ -1,3 +1,17 @@
+# Site settings
 name: Java Küche
-markdown: redcarpet
+url: http://java-kuche.com
+description: 沖縄のプログラマコミュニティ
+twitter: JavaKueche
+facebook: JavaKueche
+github:
+  owner: JavaKueche
+#  url: https://github.com/JavaKueche/javakueche.github.io
+
+# Jekyll settings
 pygments: true
+permalink: /posts/:title
+markdown: redcarpet
+redcarpet:
+  extensions: ['tables', 'autolink', 'no_intra_emphasis']
+exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
