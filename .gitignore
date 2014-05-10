@@ -1,3 +1,9 @@
+# Ruby
 .bundle
 vendor
+
+# Jekyll
 _site
+
+# Others
+.DS_Store
