@@ -2,6 +2,20 @@
 layout: default
 ---
 
-<img src="images/logo.jpg" alt="{{ site.name }}">
+<section class="content">
+    <header>
+        <h1><img src="../images/logo.jpg" /></h1>
+    </header>
 
-{{ content }}
+    {{ content }}
+
+    <ul class="listing">
+        {% for post in site.posts %}
+            {% unless post.draft %}
+            <li>
+                <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endunless %}
+        {% endfor %}
+    </ul>
+</section>
