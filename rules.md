@@ -3,6 +3,7 @@ layout: post
 title: 会則
 ---
 
+
 ### 名称
 
 本コミュニティの正式名称は「Java Küche」とする。ただしウムラウトが使えない場合は、「Java Kueche」と表記する。 Web Site の URL は java-kuche.org を用いる。
