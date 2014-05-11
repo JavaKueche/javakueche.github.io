@@ -3,10 +3,6 @@ layout: default
 ---
 
 <section class="content">
-    <header>
-        <h1><img src="/images/logo.jpg" /></h1>
-    </header>
-
     <h3><i class="fa fa-bullhorn"></i> お知らせ</h3>
     <ul class="listing">
         {% for post in site.posts %}
@@ -17,6 +13,5 @@ layout: default
             {% endunless %}
         {% endfor %}
     </ul>
-
-    {{ content }}
 </section>
+
