@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agile Japan 2014 サテライト<沖縄>
+title: Agile Japan 2014 サテライト＜沖縄＞
 ---
 
 ### 「理想のアジャイルに向けて、最初の一歩を踏み出そう！」
