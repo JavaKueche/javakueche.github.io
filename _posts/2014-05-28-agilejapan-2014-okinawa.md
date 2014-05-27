@@ -11,6 +11,7 @@ title: Agile Japan 2014 サテライト<沖縄>
 企業、自治体、コミュニティ、個人それぞれに様々なアジャイルがあり、現場を変えよう、ビジネスを変えよう、自分の仕事・人生を変えようとしています。
 
 Agile Japan 公式サイト
+
 http://www.agilejapan.org/index.html
 
 Agile Japan 2014 サテライト <沖縄> では午前を本会場で行なわれた講演を視聴、午後はアジャイル開発で著名な平鍋健児氏をお招きし基調講演を行って頂きます。
@@ -25,9 +26,11 @@ Agile Japan 2014 サテライト <沖縄> では午前を本会場で行なわ�
 イベントの申し込みはこちらからお願い致します。
 
 Agile Japan 2014 サテライト＜沖縄＞ 参加申し込みページ
+
 http://java-kuche.doorkeeper.jp/events/11941
 
 Agile Japan 2014 サテライト＜沖縄＞ 懇親会
+
 http://java-kuche.doorkeeper.jp/events/11952
 
 皆様のご参加をお待ちしております。
