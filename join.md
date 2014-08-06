@@ -28,19 +28,3 @@ https://www.facebook.com/javakueche
 https://twitter.com/JavaKueche
 
 また Java Kücheについてつぶやく際には #JavaKueche というハッシュタグが利用できます。
-
-
-### <i class="fa fa-envelope"></i> メーリングリスト
-
-勉強会開催のアナウンスや、Java Kücheからのお知らせをメールで受け取り方は以下の手順でメーリングリストに登録してください。
-
-メーリングリストへの登録方法は、
-
-subscribe あなたの名前
-
-例:
-
-    subscribe Taro Yamada
-
-というコマンドをメール本文に書いて
-アドレス <kuche-users-ctl@java-kuche.org> へ送って下さい。
