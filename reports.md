@@ -3,6 +3,11 @@ layout: post
 title: 総会資料
 ---
 
+### 第九回総会
+
+<i class="fa fa-download"></i> [ダウンロード](/files/09_activity_report.pdf)
+
+
 ### 第八回総会
 
 <i class="fa fa-download"></i> [ダウンロード](/files/08_activity_report.pdf)
