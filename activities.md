@@ -3,13 +3,21 @@ layout: post
 title: 活動実績
 ---
 
+2015
+--------------------------------------------------------------------------------
+
+### [第二十一回勉強会(4/18) Agile Japan 2015 サテライト＜沖縄＞](http://java-kuche.org/posts/agile-japan-2015-okinawa/)
+
+恒例となった Agile Japan のサテライト、2015年はテーマを「アジャイル現状確認会」と題して、
+アジャイルコーチの高江洲睦様に基調講演を行って頂きました。
+
 
 2014
 --------------------------------------------------------------------------------
 
 ### [第二十回勉強会(10/27) JavaOne 2014 報告会 in Okinawa](http://java-kuche.org/posts/javaone2014-report/)
 
-2014年9月28日〜10月2日に開催された JavaOne 2014 San Francisco の報告会を Java エバンジェリストの寺田さん、twitter4j の山本さんにお越し頂き発表して頂きました。
+2014年9月28日〜10月2日に開催された JavaOne 2014 San Francisco の報告会を Java エバンジェリストの寺田様、twitter4j の山本様にお越し頂き発表して頂きました。
 
 ### [第十九回勉強会(6/28) Agile Japan 2014 サテライト＜沖縄＞](http://java-kuche.org/posts/agilejapan-2014-okinawa/)
 
