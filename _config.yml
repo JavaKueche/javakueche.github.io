@@ -9,7 +9,7 @@ github:
 #  url: https://github.com/JavaKueche/javakueche.github.io
 
 # Jekyll settings
-pygments: true
+highlighter: true
 permalink: /posts/:title
 markdown: redcarpet
 redcarpet:
