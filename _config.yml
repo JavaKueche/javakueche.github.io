@@ -1,3 +1,7 @@
+# Jekyll plugins
+gems:
+  - jekyll-feed
+
 # Site settings
 name: Java Küche
 url: http://java-kuche.org
@@ -15,3 +19,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ['tables', 'autolink', 'no_intra_emphasis']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'vendor']
+
+# Jekyll Feed
+feed:
+  path: atom.xml
