@@ -7,11 +7,14 @@ title: 勉強勉強会の開催報告
 当日は51名の方に参加して頂けました。
 
 イベントページ: [勉強勉強会]本当にいい結果を出す勉強法について考える会
+
 https://java-kuche.doorkeeper.jp/events/41498
 
 
-当日の様子は Java Küche の Facebook ページからご覧頂けます。
-https://www.facebook.com/javakueche/
+当日の様子はこちらからご覧頂けます。
+
+- [Java Küche Facebook ページ](https://www.facebook.com/javakueche/)
+- [[勉強勉強会]本当にいい結果を出す勉強法について考える会 まとめ - Togetterまとめ](http://togetter.com/li/966804)
 
 本イベントに登壇された方や開催に協力してくださった皆様に感謝を申し上げます。
 
