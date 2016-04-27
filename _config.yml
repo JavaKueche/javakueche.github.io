@@ -15,9 +15,9 @@ github:
 # Jekyll settings
 highlighter: true
 permalink: /posts/:title
-markdown: redcarpet
-redcarpet:
-  extensions: ['tables', 'autolink', 'no_intra_emphasis']
+markdown: kramdown
+kramdown:
+  input: GFM
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'vendor']
 
 # Jekyll Feed

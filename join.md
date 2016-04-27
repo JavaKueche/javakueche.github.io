@@ -18,13 +18,13 @@ Java Kücheの最新情報を知りたい方は以下をご覧ください。
 
 最新のイベント情報を facebook ページで知ることができます。
 
-https://www.facebook.com/javakueche
+[https://www.facebook.com/javakueche](https://www.facebook.com/javakueche)
 
 
 ### <i class="fa fa-twitter-square"></i> Twitter
 
 フォローすることで最新のイベント情報を知ることができます。
 
-https://twitter.com/JavaKueche
+[https://twitter.com/JavaKueche](https://twitter.com/JavaKueche)
 
 また Java Kücheについてつぶやく際には #JavaKueche というハッシュタグが利用できます。
