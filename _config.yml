@@ -16,8 +16,8 @@ github:
 highlighter: true
 permalink: /posts/:title
 markdown: kramdown
-redcarpet:
-  extensions: ['tables', 'autolink', 'no_intra_emphasis']
+kramdown:
+  input: GFM
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'vendor']
 
 # Jekyll Feed
