@@ -3,6 +3,11 @@ layout: post
 title: 特別企画
 ---
 
+### [RDB 最前線 2015](http://java-kuche.org/posts/rdb-2015)
+
+データベースにフォーカスした特別な企画として [NPO法人 日本PostgreSQLユーザ会](https://www.postgresql.jp/)、[PostgreSQL ユーザ会 沖縄支部](https://www.postgresql.jp/branch/okinawa/) と共催のイベントを開催しました。
+
+
 ### [祝☆Java 8 Launch in 沖縄](http://java-kuche.doorkeeper.jp/events/13290) (2014/8/02)
 
 日本オラクル株式会社の寺田様、Java in the Boxの櫻庭様にお越しいただき、最新のJava SE 8 に関するご講演とハンズオンを行いました。
