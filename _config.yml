@@ -8,12 +8,14 @@ title: Java Küche
 url: http://java-kuche.org
 description: 沖縄のプログラマコミュニティ
 image: /images/avatar.jpg
+logo: /images/logo.jpg
 lang: ja_JP
-twitter: JavaKueche
-facebook: JavaKueche
+twitter:
+  username: JavaKueche
+facebook:
+  publisher: https://www.facebook.com/javakueche/
 github:
   owner: JavaKueche
-#  url: https://github.com/JavaKueche/javakueche.github.io
 
 # Jekyll settings
 highlighter: true
