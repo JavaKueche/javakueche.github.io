@@ -1,0 +1,3 @@
+# Set API credential to read GitHub Metadata on local
+#   https://github.com/jekyll/github-metadata
+export JEKYLL_GITHUB_TOKEN=

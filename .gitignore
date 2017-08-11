@@ -5,5 +5,8 @@ vendor
 # Jekyll
 _site
 
+# Direnv
+.envrc
+
 # Others
 .DS_Store
