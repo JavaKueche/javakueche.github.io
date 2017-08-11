@@ -1,11 +1,14 @@
 # Jekyll plugins
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Site settings
-name: Java Küche
+title: Java Küche
 url: http://java-kuche.org
 description: 沖縄のプログラマコミュニティ
+image: /images/avatar.jpg
+lang: ja_JP
 twitter: JavaKueche
 facebook: JavaKueche
 github:
