@@ -5,7 +5,7 @@ layout: top
 
 ### <i class="fa fa-comment-o"></i> コミュニティについて
 
-{{ site.name }}は沖縄における数少ないプログラマコミュニティとして、沖縄でのJavaの普及、
+Java Küche は沖縄における数少ないプログラマコミュニティとして、沖縄でのJavaの普及、
 Java技術者の育成、また、Javaに限定しないプログラマのコミュニケーションの場を提供する目的で、 2006年7月21日に設立されました。
 
 本コミュニティに関するお問い合わせは、[info@java-kuche.org](mailto:info@java-kuche.org) にて受けつけております。

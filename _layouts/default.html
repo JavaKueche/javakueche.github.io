@@ -4,21 +4,23 @@
         <meta charset="utf-8">
         <title>
         {% if page.url == '/' %}
-          {{ site.name }} - {{ site.description }}
+          {{ site.title }} - {{ site.description }}
         {% else %}
-          {% if page.title %}
-            {{ page.title }} &ndash;
-          {% endif %}
-          {{ site.name }}
+          {{ page.title }} &ndash; {{ site.title }}
         {% endif %}
         </title>
 
-        <meta name="author" content="{{ site.name }}" />
+        <meta name="author" content="{{ site.title }}" />
         <meta name="description" content="{{ site.description }}" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+        <!-- SEO meta -->
+        {% seo title=false %}
+
+        <!-- RSS Feed -->
         {% feed_meta %}
 
+        <!-- Assets -->
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
         <link rel="stylesheet" href="/css/base.css" type="text/css" media="screen, projection" />
         <link rel="stylesheet" href="/css/pygments.css" type="text/css" />
@@ -37,8 +39,8 @@
 
             <aside class="meta">
                 <a href="https://github.com/{{ site.github.owner}}" target="_blank"><i class="fa fa-github"></i></a>
-                <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a href="https://facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook-square"></i></a>
+                <a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="{{ site.facebook.publisher }}" target="_blank"><i class="fa fa-facebook-square"></i></a>
                 <a href="/atom.xml"><i class="fa fa-rss"></i></a>
             </aside>
 
@@ -61,7 +63,7 @@
         {{ content }}
 
         <footer class="content">
-            &copy; 2015 {{ site.name }}.
+            &copy; 2017 {{ site.title }}.
             Powered by <a href="http://jekyllrb.com">Jekyll</a>.
             Theme is <a href="https://github.com/holman/left">left</a>.
             Hosted on <a href="https://github.com/JavaKueche/javakueche.github.io">GitHub</a>.
