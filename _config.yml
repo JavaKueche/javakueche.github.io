@@ -1,7 +1,23 @@
 # Jekyll plugins
+#   https://help.github.com/articles/configuring-jekyll-plugins/
 plugins:
+  # GitHub Pages default plugins
+  # Default plugins are enabled by default and cannot be disabled.
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+  # Enable optional plugins
+  # To enable an optional plugin, you must add it your _config.yml file.
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Site settings
 title: Java Küche
