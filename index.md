@@ -1,5 +1,6 @@
 ---
 layout: top
+image: /images/logo.jpg
 ---
 
 
