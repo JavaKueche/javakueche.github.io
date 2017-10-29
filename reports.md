@@ -2,6 +2,10 @@
 layout: post
 title: 総会資料
 ---
+### 第十二回総会
+
+<i class="fa fa-download"></i> [ダウンロード](/files/12_activity_report.pdf)
+
 
 ### 第十一回総会
 
